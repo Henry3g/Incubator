@@ -1,6 +1,13 @@
 # Incubator
 A project about the Banking industry according to Data from Linkedin
+A dataset from Linkedin is used in this project.
+
 From 09/14/2015 to 07/17/2018, information from the banking industry was updated the most frequently. That somehow means that companies from the banking industry can be one of the most important customers for Linkedin. So it's very important to know the main players in this area and how they developed, in order to predict their future development. 
+The number of employees can show the size of the company. I the biggest company in the banking industry, the Bank of America, to analyze.
+Firstly, I did some research on the increaing rate of the bank of America.
+Secondly, I focused on the share of Bank of America among the whole banking industry.
+From the two steps, I can roughly know the development of Bank of America and the banking industry.
+In the future, more analysis can be done to know more details in the banking industry and the same processes can be applied to analyze other industries.
 
 Step 1: Find Top 3 companies in the banking industry according to their numbers of employees.(draw graphs for Top 1 company)
         plot(time vs. number of employees)
